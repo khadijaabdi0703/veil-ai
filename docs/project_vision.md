@@ -1,26 +1,11 @@
-# VEIL
+# Project Vision
 
 ## Mission
-
-Help users identify phishing attempts using artificial intelligence.
-
-## Vision
-
-Build a modern cybersecurity platform that protects people from digital deception.
+Protect everyday users from digital deception through intelligent, calm, and transparent AI analysis.
 
 ## Target Users
+Students, individuals, families, non-technical users.
 
-- Students
-- Individuals
-- Small businesses
-- Developers
-
-## Main Features
-
-- Email analysis
-- SMS analysis
-- URL analysis
-- AI explanation
-- Threat score
-- History
-- Reports
+## Success Criteria
+- A user can paste any suspicious message and understand why it's dangerous within 10 seconds.
+- The interface feels premium, calm, and trustworthy.
