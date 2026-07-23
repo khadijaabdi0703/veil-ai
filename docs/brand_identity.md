@@ -121,3 +121,21 @@ Trust nothing.
 Verify everything.
 
 Reveal the truth.
+
+# Brand Identity
+
+## Colors
+- Primary Background: `#09090B`
+- Secondary Background: `#18181B`
+- Accent: `#9F1239`
+- Gold: `#D4AF37`
+- Success: `#0F766E`
+- Danger: `#991B1B`
+- Text: `#F8FAFC`
+
+## Typography
+- Headings: Space Grotesk
+- Body: Inter
+
+## Personality
+Calm, intelligent, honest, professional.
